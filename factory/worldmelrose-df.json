@@ -1,0 +1,9 @@
+{
+	"name": "worldmelrose-df",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "891040d4-04cb-4cde-8d24-65668a63f844",
+		"tenantId": "2e6424ca-5c4e-40b3-a6fb-9d87b5d8a67e"
+	}
+}
